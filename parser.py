@@ -1,1 +1,1 @@
-
+print("HARVEST: Python работает")
